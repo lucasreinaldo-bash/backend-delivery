@@ -1,1 +1,1 @@
-A simple command-line application.
+Projeto de backend construido com o Dart
